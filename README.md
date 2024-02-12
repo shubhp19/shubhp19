@@ -1,4 +1,4 @@
-[![MasterHead](Coding_image.jpg)]
+![MasterHead](Coding_image.jpg)
 <h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 <h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="WFH.gif">
