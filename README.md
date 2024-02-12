@@ -2,21 +2,22 @@
 <h1 align="center">Hi 👋, I'm Shubham Patil</h1>
 <h3 align="center">Data Scientist | Data Analyst | Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="WFH.gif">
-- 🔭 I’m currently pursuing **Masters in Information Systems**
+-🔭 I’m currently pursuing **Masters in Information Systems**
 
-- 💼  Skilled in the following technical skills:
+
+-💼  Skilled in the following technical skills:
   
-* Data Analysis: SQL, Microsoft Excel, Python (Numpy, Pandas), R.
+- Data Analysis: SQL, Microsoft Excel, Python (Numpy, Pandas), R.
   
-* Data Visualization: Power BI, Microsoft Excel, Python (Matplotlib, Seaborn), QuickSight.
+- Data Visualization: Power BI, Microsoft Excel, Python (Matplotlib, Seaborn), QuickSight.
   
-* Databases: MySQL, PostgreSQL, MongoDB, SQL Server.
+- Databases: MySQL, PostgreSQL, MongoDB, SQL Server.
   
-- 👨‍💻 All of my projects are available at [https://github.com/shubhp19)
-- 
-- 📫 How to reach me **spatil29@syr.edu**
-- 
-- ⚡ Fun fact **During my leisure time, I relish playing the guitar🎸.**
+-👨‍💻 All of my projects are available at [https://github.com/shubhp19)
+  
+-📫 How to reach me **spatil29@syr.edu**
+  
+-⚡ Fun fact **During my leisure time, I relish playing the guitar🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
