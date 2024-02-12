@@ -3,7 +3,7 @@
 <img align="right" alt="Coding" width="400" src="WFH.gif">
 - 🔭 I’m currently pursuing **Masters in Information Systems**
 
-- 👨‍💻 All of my projects are available at [https://github.com/shubhp19?tab=repositories](https://github.com/shubhp19?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/shubhp19)
 
 - 📫 How to reach me **spatil29@syr.edu**
 
