@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **spatil29@syr.edu**
 
-- ⚡ Fun fact **🎸 During my leisure time, I relish playing the guitar.**
+- ⚡ Fun fact **During my leisure time, I relish playing the guitar🎸.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
